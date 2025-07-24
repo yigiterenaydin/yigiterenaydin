@@ -45,7 +45,7 @@
 ## 🧰 Tech-Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,vscode&theme=dark" />
 </p>
 
 
