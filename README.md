@@ -1,12 +1,20 @@
 <!-- 🎨 Banner -->
-![Profile Views](https://komarev.com/ghpvc/?username=yigiterenaydin&label=PROFILE+VIEWS&color=blue&style=flat)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hallo👋+ich+bin+EREN+AYDIN&fontSize=30&fontAlignY=45&desc=Modern+Web+Entwickler+%7C+Next.js+%2B+Tailwind" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hallo👋+ich+bin+Yigite+Ren+Aydin&fontSize=30&fontAlignY=45&desc=Modern+Web+Entwickler+%7C+Next.js+%2B+Tailwind" />
 
 <!-- 📝 Kayan-Schrift -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Next.js+Enthusiast;Tailwind+CSS+Fan;Vercel+Deployer" alt="Typing animation" />
 </p>
+
+---
+
+## 🌐 Eigene Projekte (Live)
+
+- 📘 [Superonline](https://superonline.vercel.app)  
+  Moderne Web-App mit Next.js & Tailwind CSS.
+
+- 🧠 [Vokabel Trainer](https://vokabel-hazel.vercel.app)  
+  Lern-App zur Erweiterung des deutschen Wortschatzes – responsiv und intuitiv.
 
 ---
 
