@@ -2,7 +2,7 @@
 
 readme_modern_german_with_father = """\
 <!-- 🎨 Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hallo👋+ich+bin+Yigite+Ren+Aydin&fontSize=30&fontAlignY=45&desc=Modern+Web+Entwickler+%7C+Next.js+%2B+Tailwind" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hallo👋+ich+bin+EREN+AYDIN&fontSize=30&fontAlignY=45&desc=Modern+Web+Entwickler+%7C+Next.js+%2B+Tailwind" />
 
 <!-- 📝 Kayan-Schrift -->
 <p align="center">
@@ -66,9 +66,3 @@ readme_modern_german_with_father = """\
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 """
 
-# Save to file
-readme_final_path = "/mnt/data/README_MODERN_PROFIL_AILE_V1.md"
-with open(readme_final_path, "w", encoding="utf-8") as f:
-    f.write(readme_modern_german_with_father)
-
-readme_final_path
