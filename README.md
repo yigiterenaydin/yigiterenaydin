@@ -1,6 +1,5 @@
 <!-- 🎨 Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hallo👋+ich+bin+EREN+AYDIN&fontSize=30&fontAlignY=45&desc=Modern+Web+Entwickler+%7C+Next.js+%2B+Tailwind" />
-
 <!-- 📝 Kayan-Schrift -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Next.js+Enthusiast;Tailwind+CSS+Fan;Vercel+Deployer" alt="Typing animation" />
