@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hallo! Ich bin Yigite Ren Aydin
 
-<!--
-**yigiterenaydin/yigiterenaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf meinem GitHub-Profil!  
+Ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien wie **Next.js**, **Tailwind CSS** und **TypeScript**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Über mich
+
+- 🔭 Aktuelles Projekt: `superonline` – eine moderne Next.js-Webanwendung
+- 🌱 Ich lerne zurzeit: `Next.js`, `TypeScript`, `Tailwind CSS`, `Git`
+- 💬 Frag mich gerne zu: Webentwicklung, React, GitHub Workflows
+- 📫 Kontakt: yigiterenaydin@gmail.com
+- 🎯 Ziel: Fullstack Webentwickler werden
+
+---
+
+## 📈 GitHub Statistiken
+
+![Yigite Ren's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigiterenaydin&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Links
+
+- 🌐 [Live-Projekt ansehen](https://superonline.vercel.app)
+- 📁 [Weitere Repositories](https://github.com/yigiterenaydin?tab=repositories)
+
+---
+
+Vielen Dank für deinen Besuch! ⭐️
