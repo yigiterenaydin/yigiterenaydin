@@ -27,7 +27,7 @@
 
 - 🔭 Aktuelles Projekt: **superonline** (Next.js + Tailwind)
 - 🌱 Lernend: TypeScript, React, GitHub Actions
-- 📫 Kontakt: <a href="mailto:yigiterenaydin@gmail.com">yigiterenaydin@gmail.com</a>
+- 📫 Kontakt: <a href="mailto:eren.yigit.aydin@gmail.com">eren.yigit.aydin@gmail.com</a>
 - 🌍 Webseite: [superonline.vercel.app](https://superonline.vercel.app)
 
 ---
