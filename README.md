@@ -6,15 +6,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Next.js+Enthusiast;Tailwind+CSS+Fan;Vercel+Deployer" alt="Typing animation" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yigiterenaydin&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile view counter" />
+</p>
+
 ---
 
 ## 🌐 Eigene Projekte (Live)
 
 - 📘 [Superonline](https://superonline.vercel.app)  
-  Moderne Web-App mit Next.js & Tailwind CSS.
+  Dies ist mein persönliches **Lebenslauf-Projekt**, bei dem ich gelernt habe, mit Next.js und Tailwind CSS zu arbeiten. Es zeigt meine technischen Fähigkeiten und dient als digitale Visitenkarte.
 
 - 🧠 [Vokabel Trainer](https://vokabel-hazel.vercel.app)  
-  Lern-App zur Erweiterung des deutschen Wortschatzes – responsiv und intuitiv.
+  Eine Lern-App zur Unterstützung beim Vokabeltraining.  
+  Die Idee: Man fotografiert eine Wörterliste aus einem Französisch- oder Englischbuch, und die App hilft mit **künstlicher Intelligenz** beim Üben der Wörter.  
+  📌 **Hinweis:** Das Projekt befindet sich derzeit noch in aktiver Entwicklung.
 
 ---
 
