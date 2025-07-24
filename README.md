@@ -1,4 +1,4 @@
-# 👋 Hallo! Ich bin Yigite Ren Aydin
+# 👋 Hallo! Ich bin EREN AYDIN
 
 Willkommen auf meinem GitHub-Profil!  
 Ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien wie **Next.js**, **Tailwind CSS** und **TypeScript**.
