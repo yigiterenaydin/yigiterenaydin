@@ -9,6 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=yigiterenaydin&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile view counter" />
 </p>
 
+## 🧪 Lokal Önizleme
+
+- Basit örnek sayfa: `/index.html`
+- Açmak için dosyayı tarayıcıda doğrudan çalıştırabilirsin.
+
 ---
 
 ## 🌐 Eigene Projekte (Live)
